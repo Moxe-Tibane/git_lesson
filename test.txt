@@ -3,4 +3,5 @@ testing the second entry
 testing addition of second line from remote
 Venus you took 4 hours to add 2 lines code. 20 pushed happened after you pulled.
 ccm line
-one last line
+one last linegi 
+seven here
